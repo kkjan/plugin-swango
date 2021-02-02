@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+        <setting label="30001" id="username"  type="text"  efault=""/>
+        <setting label="30002" id="password"  type="text" option="hidden" enable="!eq(-1,)" default=""/>
+        <setting type="sep"/>
+        <setting label="30030" id="device_type_code" type="text" default="ANDROID_4_4PLUS" />
+        <setting label="30031" id="device_model" type="text" default="Huawei" />
+        <setting label="30032" id="device_name" type="text" default="HUAWEI SCL-L21" />
+        <setting label="30033" id="device_serial_number" type="text" default="-------------" />
+        <setting label="30034" id="device_token" type="text" default="" />
+    </category>
+    <category label="32002">
+        <setting label="30035" id="playlistpath" type="file" default="/storage/swan_playlist.m3u" />
+        <setting type="sep"/>
+        <setting label="30036" id="epgdays" type="number" default="3" />
+        <setting label="30037" id="epgpath" type="file" default="/storage/epginfo.xml" />
+    </category>
+</settings>

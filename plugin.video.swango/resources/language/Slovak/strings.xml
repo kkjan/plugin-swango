@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30001">Login</string>
+    <string id="30002">Heslo</string>
+    <string id="30003">Neplatné prihlásenie</string>
+    <string id="30004">Názov zariadenia</string>
+    <string id="30005">ID zariadenia</string>
+    <string id="30006">Veľmi veľa zariadení pre tento účet</string>
+	<string id="30007">Kanál práve nevysiela</string>
+    <string id="30030">Kód typu zariadenia</string>
+    <string id="30031">Model zariadenia</string>
+    <string id="30032">Názov zariadenia</string>
+    <string id="30033">Sériové číslo zariadenia</string>
+    <string id="30034">Token  zariadenia</string>
+    <string id="30035">Cesta k súboru playlistu</string>
+    <string id="30036">Počet dní pre generovanie EPG xml súboru</string>
+    <string id="30037">Cesta k EPG XML súboru</string>
+    <string id="32001">Hlavné</string>
+    <string id="32002">Playlist a EPG</string>
+</strings>
